@@ -1,0 +1,11 @@
+file_format: "1"
+id: tsuru_stm
+name: Tsuru STM
+type: board
+arch: arm
+features:
+  - keys
+  - encoders
+outputs:
+  - usb
+url: https://github.com/calvin-mcd/tsuru-STM
