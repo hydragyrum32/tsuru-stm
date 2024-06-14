@@ -17,3 +17,4 @@
 #     artifact-name: corne_left_with_logging
 #
 ---
+board: [ "tsuru_stm" ]
